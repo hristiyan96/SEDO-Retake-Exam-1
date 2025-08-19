@@ -20,3 +20,4 @@ document.getElementById('randomColorBtn')
     const randomColor = getRandomColor();
     document.getElementById('box').style.backgroundColor = randomColor;
   });
+
